@@ -16,4 +16,6 @@ You can find IP address of website of your choice by just typing url and hitting
 
 ### Final output <a name = "final"></a>
 
-![screenshot]()
+![screenshot](https://github.com/aiwithab/ip-finder/blob/master/screenshots/screen1.png)
+![screenshot](https://github.com/aiwithab/ip-finder/blob/master/screenshots/screen2.png)
+![screenshot](https://github.com/aiwithab/ip-finder/blob/master/screenshots/screen3.png)
